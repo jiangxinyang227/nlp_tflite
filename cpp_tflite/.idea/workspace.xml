@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="stroke_lite" targetName="stroke_lite" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="322edcc2-4dc2-4509-82ad-dd17fb33b3c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1e1xPIpxtL3d4si7L1f3FHasJOr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="stroke_lite" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stroke_lite" TARGET_NAME="stroke_lite" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="stroke_lite" RUN_TARGET_NAME="stroke_lite">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="322edcc2-4dc2-4509-82ad-dd17fb33b3c7" name="Default Changelist" comment="" />
+      <created>1593502874773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593502874773</updated>
+      <workItem from="1593502879783" duration="1596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2130" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593518021598">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2130" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.812/1440.23.1920.1057@1440.23.1920.1057" timestamp="1593518021598" />
+    <state x="236" y="43" key="SettingsEditor" timestamp="1593503347186">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="236" y="43" key="SettingsEditor/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1593503347186" />
+    <state x="412" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1593502879006">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="412" y="237" key="com.intellij.ide.util.TipDialog/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1593502879006" />
+  </component>
+</project>

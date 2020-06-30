@@ -1,0 +1,3 @@
+/Users/jiangxinyang/Desktop/nlp_tflite/cpp_tflite/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiangxinyang/Desktop/nlp_tflite/cpp_tflite/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiangxinyang/Desktop/nlp_tflite/cpp_tflite/cmake-build-debug/CMakeFiles/stroke_lite.dir
